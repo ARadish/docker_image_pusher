@@ -1,1 +1,1 @@
-waleedka/modern-deep-learning
+rustdesk/rustdesk-server-pro:latest
