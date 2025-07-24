@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server-pro:latest
+aradish/mmsegmentation:0.0.1
