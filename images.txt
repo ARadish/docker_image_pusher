@@ -1,1 +1,1 @@
-aradish/mmsegmentation:0.0.1
+shaderobotics/segformer:foxy-b5
